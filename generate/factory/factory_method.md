@@ -1,0 +1,1 @@
+![uml](./factory_method1.jpg)
