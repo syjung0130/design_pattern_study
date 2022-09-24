@@ -28,11 +28,12 @@ namespace _2_AbstractFactoryMethod
         }
     }
 
+    // Almost same as Factory, just an additional exposure todo something with the created method
     public abstract class ProductAbstractFactory
     {
         protected abstract IProduct MakeProduct();
 
-        public IProduct GetObject()
+        public IProduct GetObject() // Implementation of Factory Method.
         {
             return this.MakeProduct();
         }
@@ -43,6 +44,7 @@ namespace _2_AbstractFactoryMethod
         protected override IProduct MakeProduct()
         {
             IProduct product = new Phone();
+            // Do Something with the object after you get the object
             product.SetPrice(30);
             return product;
         }
