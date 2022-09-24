@@ -2,13 +2,21 @@
  - factory method는 말 그대로 객체를 생성하는 부분을 캡슐화한 패턴이다.
  - 예제에서는 팩토리메서드 패턴 내에서 IPerson인터페이스를 상속받은 Villeager, CityPerson을 이용해서 객체를 생성한다.
  - 실제 객체의 생성부분을 추상화했다고 볼 수 잇다.
+ - UML: 
+   - 객체(Product)를 생성하는 Interface가 있고 이를 구체화한 클래스가 있다.
+   - factory(creator)에서는 객체(Product)를 생성하는 Interface를 사용해서 객체를 생성한다.
+   - factory를 Interface로 구현하고 구체적인 팩터리 패턴을 구현하는 것도 가능하다.
+ 현재 코드에서는 2개의 Person(Villeager, CityPerson)을 생성하는 로직을 하나의 팩터리에  추가했지만, VilleagerFactory, CityPersonFactory으로 분리해서 구현이 가능하다. 
+   - 만약 객체 생성 시에 전달해야하는 인자들이 늘어날 수록, 유지보수에 어려움이 발생할 수 있다. 그래서 추상화하는 것이 더 좋다. 
+![img](./img/W3sDesign_Factory_Method_Design_Pattern_UML.jpg)
  
 ## abstract factory pattern
- - 객체를 생성하는 factory 클래스를 추상화하는 패턴이다.  
- - factory method 패턴의 메서드에서 if문 또는 switch문으로 분기해서 객체를 생성하는데,  
- factory method패턴은 추상클래스를 상속받은 구체적인 factor method패턴에서 하나의 객체에 대한 생성만을 전담함으로 인해  
- 코드가 한결 깔끔해진다는 장점이 있다.  
-  
+ - 구체적인 클래스를 지정하지 않고 공통 테마를 가진 개별 팩토리 그룹을 캡슐화하는 방법을 제공한다.   
+ - 예제에서는 Client에서 어떤 클래스의 구체적인 인스턴스(IPad인지, Galaxy인지)를 감추고 Interface(IProduct)로 접근한다.
+ - Client코드의 구체적인 클래스(Product)에 대한 의존성을 제거한다는 점에서 의미가 있다.
+ (client는 구체적인 클래스(product)에 대한 세부 내용을 알 필요가 없으므로..)
+ - UML:
+ ![img](./img/1920px-Abstract_factory_UML.svg.png)  
 
 
 ### 참고
