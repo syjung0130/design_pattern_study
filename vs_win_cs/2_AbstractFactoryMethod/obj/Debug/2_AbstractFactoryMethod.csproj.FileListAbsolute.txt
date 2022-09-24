@@ -1,0 +1,8 @@
+D:\Work\GitHub\design_pattern_study\vs_win_cs\2_AbstractFactoryMethod\bin\Debug\2_AbstractFactoryMethod.exe.config
+D:\Work\GitHub\design_pattern_study\vs_win_cs\2_AbstractFactoryMethod\bin\Debug\2_AbstractFactoryMethod.exe
+D:\Work\GitHub\design_pattern_study\vs_win_cs\2_AbstractFactoryMethod\bin\Debug\2_AbstractFactoryMethod.pdb
+D:\Work\GitHub\design_pattern_study\vs_win_cs\2_AbstractFactoryMethod\obj\Debug\2_AbstractFactoryMethod.csproj.AssemblyReference.cache
+D:\Work\GitHub\design_pattern_study\vs_win_cs\2_AbstractFactoryMethod\obj\Debug\2_AbstractFactoryMethod.csproj.SuggestedBindingRedirects.cache
+D:\Work\GitHub\design_pattern_study\vs_win_cs\2_AbstractFactoryMethod\obj\Debug\2_AbstractFactoryMethod.csproj.CoreCompileInputs.cache
+D:\Work\GitHub\design_pattern_study\vs_win_cs\2_AbstractFactoryMethod\obj\Debug\2_AbstractFactoryMethod.exe
+D:\Work\GitHub\design_pattern_study\vs_win_cs\2_AbstractFactoryMethod\obj\Debug\2_AbstractFactoryMethod.pdb

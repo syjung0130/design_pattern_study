@@ -6,3 +6,11 @@ C:\Users\sunye\source\repos\design_pattern_study\vs_win_cs\1_FactoryMethod\obj\D
 C:\Users\sunye\source\repos\design_pattern_study\vs_win_cs\1_FactoryMethod\obj\Debug\1_FactoryMethod.csproj.CoreCompileInputs.cache
 C:\Users\sunye\source\repos\design_pattern_study\vs_win_cs\1_FactoryMethod\obj\Debug\1_FactoryMethod.exe
 C:\Users\sunye\source\repos\design_pattern_study\vs_win_cs\1_FactoryMethod\obj\Debug\1_FactoryMethod.pdb
+D:\Work\GitHub\design_pattern_study\vs_win_cs\1_FactoryMethod\bin\Debug\1_FactoryMethod.exe.config
+D:\Work\GitHub\design_pattern_study\vs_win_cs\1_FactoryMethod\bin\Debug\1_FactoryMethod.exe
+D:\Work\GitHub\design_pattern_study\vs_win_cs\1_FactoryMethod\bin\Debug\1_FactoryMethod.pdb
+D:\Work\GitHub\design_pattern_study\vs_win_cs\1_FactoryMethod\obj\Debug\1_FactoryMethod.csproj.AssemblyReference.cache
+D:\Work\GitHub\design_pattern_study\vs_win_cs\1_FactoryMethod\obj\Debug\1_FactoryMethod.csproj.SuggestedBindingRedirects.cache
+D:\Work\GitHub\design_pattern_study\vs_win_cs\1_FactoryMethod\obj\Debug\1_FactoryMethod.csproj.CoreCompileInputs.cache
+D:\Work\GitHub\design_pattern_study\vs_win_cs\1_FactoryMethod\obj\Debug\1_FactoryMethod.exe
+D:\Work\GitHub\design_pattern_study\vs_win_cs\1_FactoryMethod\obj\Debug\1_FactoryMethod.pdb
